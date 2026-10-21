@@ -1,0 +1,69 @@
+2026-10-21 11:30:01,640 | INFO | Inicio del análisis
+2026-10-21 11:30:01,656 | INFO | Dataset cargado: (907, 12)
+2026-10-21 11:30:01,657 | INFO | Columnas requeridas validadas
+2026-10-21 11:30:01,668 | INFO | Limpieza finalizada
+2026-10-21 11:30:01,670 | INFO | Costo_Total generado
+2026-10-21 11:30:01,678 | INFO | Reporte de calidad generado
+2026-10-21 11:30:01,707 | INFO | Estadísticas descriptivas generadas
+2026-10-21 11:30:01,718 | INFO | Tablas agregadas generadas
+2026-10-21 11:32:20,864 | INFO | Inicio del análisis
+2026-10-21 11:32:20,874 | INFO | Dataset cargado: (907, 12)
+2026-10-21 11:32:20,875 | INFO | Columnas requeridas validadas
+2026-10-21 11:32:20,882 | INFO | Limpieza finalizada
+2026-10-21 11:32:20,883 | INFO | Costo_Total generado
+2026-10-21 11:32:20,892 | INFO | Reporte de calidad generado
+2026-10-21 11:32:20,920 | INFO | Estadísticas descriptivas generadas
+2026-10-21 11:32:20,928 | INFO | Tablas agregadas generadas
+2026-10-21 11:32:21,146 | INFO | Excel consolidado generado
+2026-10-21 11:32:22,376 | INFO | Gráficos generados
+2026-10-21 11:32:22,838 | INFO | Análisis KMeans completado
+2026-10-21 11:32:30,058 | INFO | Mejor modelo: RandomForest
+2026-10-21 11:32:30,058 | INFO | Profile Report generado
+2026-10-21 11:32:30,059 | INFO | Reporte ejecutivo generado
+2026-10-21 11:32:30,059 | INFO | Pipeline finalizado exitosamente
+2026-10-21 11:32:41,274 | INFO | Inicio del análisis
+2026-10-21 11:32:41,279 | INFO | Dataset cargado: (907, 12)
+2026-10-21 11:32:41,279 | INFO | Columnas requeridas validadas
+2026-10-21 11:32:41,284 | INFO | Limpieza finalizada
+2026-10-21 11:32:41,285 | INFO | Costo_Total generado
+2026-10-21 11:32:41,291 | INFO | Reporte de calidad generado
+2026-10-21 11:32:41,319 | INFO | Estadísticas descriptivas generadas
+2026-10-21 11:32:41,325 | INFO | Tablas agregadas generadas
+2026-10-21 11:32:41,476 | INFO | Excel consolidado generado
+2026-10-21 11:32:42,344 | INFO | Gráficos generados
+2026-10-21 11:32:42,831 | INFO | Análisis KMeans completado
+2026-10-21 11:32:50,418 | INFO | Mejor modelo: RandomForest
+2026-10-21 11:32:50,418 | INFO | Profile Report generado
+2026-10-21 11:32:50,419 | INFO | Reporte ejecutivo generado
+2026-10-21 11:32:50,419 | INFO | Pipeline finalizado exitosamente
+2026-10-21 13:20:20,863 | INFO | Inicio del análisis
+2026-10-21 13:20:20,878 | INFO | Dataset cargado: (907, 12)
+2026-10-21 13:20:20,879 | INFO | Columnas requeridas validadas
+2026-10-21 13:20:20,889 | INFO | Limpieza finalizada
+2026-10-21 13:20:20,891 | INFO | Costo_Total generado
+2026-10-21 13:20:20,903 | INFO | Reporte de calidad generado
+2026-10-21 13:20:20,939 | INFO | Estadísticas descriptivas generadas
+2026-10-21 13:20:20,962 | INFO | Tablas agregadas generadas
+2026-10-21 13:20:21,276 | INFO | Excel consolidado generado
+2026-10-21 13:20:24,125 | INFO | Gráficos generados
+2026-10-21 13:20:24,700 | INFO | Análisis KMeans completado
+2026-10-21 13:20:31,918 | INFO | Mejor modelo: RandomForest
+2026-10-21 13:20:31,918 | INFO | Profile Report generado
+2026-10-21 13:20:31,918 | INFO | Reporte ejecutivo generado
+2026-10-21 13:20:31,918 | INFO | Pipeline finalizado exitosamente
+2026-10-21 13:38:43,374 | INFO | Inicio del análisis
+2026-10-21 13:38:43,387 | INFO | Dataset cargado: (907, 12)
+2026-10-21 13:38:43,388 | INFO | Columnas requeridas validadas
+2026-10-21 13:38:43,397 | INFO | Limpieza finalizada
+2026-10-21 13:38:43,398 | INFO | Costo_Total generado
+2026-10-21 13:38:43,408 | INFO | Reporte de calidad generado
+2026-10-21 13:38:43,444 | INFO | Estadísticas descriptivas generadas
+2026-10-21 13:38:43,464 | INFO | Tablas agregadas generadas
+2026-10-21 13:38:43,753 | INFO | Excel consolidado generado
+2026-10-21 13:38:46,048 | INFO | Gráficos generados
+2026-10-21 13:38:46,582 | INFO | Análisis KMeans completado
+2026-10-21 13:38:53,757 | INFO | Mejor modelo: RandomForest
+2026-10-21 13:39:10,558 | INFO | Red neuronal entrenada y gráfica de pérdida generada
+2026-10-21 13:39:10,558 | INFO | Profile Report generado
+2026-10-21 13:39:10,558 | INFO | Reporte ejecutivo generado
+2026-10-21 13:39:10,558 | INFO | Pipeline finalizado exitosamente

@@ -1,0 +1,592 @@
+Country,Program,Level,Costo_Total
+Algeria,Data Analytics,PhD,15680.0
+Algeria,Computer Science,Bachelor,13280.0
+Algeria,Information Systems,Bachelor,9140.0
+Algeria,Computer Engineering,Master,7380.0
+Argentina,Software Engineering,Bachelor,25650.0
+Argentina,Computer Science,PhD,18010.0
+Argentina,Software Development,Bachelor,12730.0
+Argentina,Data Analytics,PhD,12250.0
+Argentina,Data Science,Master,7370.0
+Argentina,Computer Engineering,Master,6890.0
+Australia,Biotechnology,PhD,208650.0
+Australia,Computer Science,PhD,193304.54545454544
+Australia,Artificial Intelligence,PhD,191050.0
+Australia,Climate Science,PhD,189450.0
+Australia,Computer Engineering,Bachelor,177050.0
+Australia,Business,Bachelor,165000.0
+Australia,Computer Science,Bachelor,164918.18181818182
+Australia,Chemistry,PhD,163050.0
+Australia,Mathematics,PhD,160650.0
+Australia,Information Technology,Bachelor,135600.0
+Australia,Software Development,Bachelor,126900.0
+Australia,Information Systems,Bachelor,124200.0
+Australia,Engineering,Master,119350.0
+Australia,Computer Science,Master,116911.90476190476
+Australia,Physics,Bachelor,112800.0
+Australia,Software Engineering,Master,99550.0
+Australia,Artificial Intelligence,Master,92750.0
+Australia,Data Science,Master,88950.0
+Australia,Physics,Master,88150.0
+Australia,Data Analytics,Master,86950.0
+Australia,Computing Science,Master,83150.0
+Australia,Chemistry,Master,78550.0
+Austria,Industrial Engineering,PhD,43160.0
+Austria,Social Sciences,Bachelor,40360.0
+Austria,Data Analytics,Bachelor,36010.0
+Austria,Software Development,Bachelor,36010.0
+Austria,Mechanical Engineering,Bachelor,34210.0
+Austria,Software Engineering,Master,27660.0
+Austria,Mechatronics,Master,23580.0
+Austria,Data Science,Master,22140.0
+Austria,Artificial Intelligence,Master,21660.0
+Bahrain,Data Science,PhD,68290.0
+Bahrain,Software Engineering,Bachelor,64130.0
+Bahrain,Software Development,Bachelor,57330.0
+Bahrain,Information Technology,Master,32930.0
+Bahrain,Data Engineering,Master,30250.0
+Bangladesh,Artificial Intelligence,PhD,19300.0
+Bangladesh,Computer Engineering,PhD,17780.0
+Bangladesh,Computer Science,Master,11500.0
+Bangladesh,Software Development,Master,9020.0
+Bangladesh,Software Engineering,Master,8580.0
+Belgium,Artificial Intelligence,PhD,64180.0
+Belgium,Computer Science,PhD,56580.0
+Belgium,Data Science,PhD,52340.0
+Belgium,Biomedical Sciences,Bachelor,48330.0
+Belgium,Artificial Intelligence,Bachelor,39780.0
+Belgium,Robotics,Master,30580.0
+Belgium,Computer Science,Master,29180.0
+Belgium,Data Engineering,Master,27500.0
+Belgium,Computer Engineering,Master,25580.0
+Brazil,Information Systems,PhD,60090.0
+Brazil,Data Science,Bachelor,20890.0
+Brazil,Information Technology,PhD,20890.0
+Brazil,Computer Science,Master,15325.0
+Brazil,Computer Engineering,Master,10490.0
+Brazil,Data Science,Master,10010.0
+Bulgaria,Artificial Intelligence,PhD,28910.0
+Bulgaria,Data Science,Bachelor,23210.0
+Bulgaria,Information Systems,Master,17310.0
+Bulgaria,Computer Engineering,Master,14830.0
+Bulgaria,Computer Science,Master,14190.0
+Canada,Psychology,Bachelor,210235.0
+Canada,Mathematics,Bachelor,200835.0
+Canada,Computer Science,Bachelor,194911.92307692306
+Canada,Computer Science,PhD,187535.0
+Canada,Political Science,Bachelor,181835.0
+Canada,Software Engineering,Bachelor,181835.0
+Canada,Computer Engineering,Bachelor,177835.0
+Canada,Quantum Computing,PhD,152235.0
+Canada,Software Systems,Bachelor,149035.0
+Canada,Physics,Bachelor,136885.0
+Canada,Computer Engineering,PhD,126635.0
+Canada,Business Analytics,Master,124985.0
+Canada,Environmental Science,Master,124135.0
+Canada,Mathematics,Master,98135.0
+Canada,Engineering,Master,97735.0
+Canada,Data Science,Master,93101.66666666667
+Canada,Artificial Intelligence,Master,89785.0
+Canada,Computer Science,Master,75072.03703703704
+Canada,Data Analytics,Master,75035.0
+China,Computer Science,Master,48080.0
+China,Data Science,Master,44600.0
+China,Computer Engineering,Master,41690.0
+China,Information Technology,Master,40940.0
+China,Artificial Intelligence,Master,39890.0
+China,Software Engineering,Master,39340.0
+Colombia,Computer Science,PhD,34080.0
+Colombia,Information Technology,Bachelor,28480.0
+Colombia,Data Science,PhD,27760.0
+Colombia,Software Engineering,Master,17280.0
+Colombia,Computer Engineering,Master,15000.0
+Colombia,Information Systems,Master,14240.0
+Croatia,Software Engineering,PhD,39280.0
+Croatia,Information Technology,PhD,33840.0
+Croatia,Computer Science,Bachelor,23480.0
+Croatia,Data Engineering,Master,18080.0
+Croatia,Software Development,Master,17040.0
+Croatia,Information Systems,Master,17000.0
+Cyprus,Artificial Intelligence,PhD,58900.0
+Cyprus,Software Development,Bachelor,58500.0
+Cyprus,Data Science,Bachelor,40000.0
+Cyprus,Data Science,Master,31500.0
+Cyprus,Software Engineering,Master,28220.0
+Cyprus,Computer Engineering,Master,26620.0
+Czech Republic,Medicine,Bachelor,54100.0
+Denmark,Physics,PhD,75650.0
+Denmark,Computer Science,Master,54910.0
+Denmark,Data Science,Master,47310.0
+Denmark,Software Engineering,PhD,46850.0
+Denmark,Software Engineering,Master,42110.0
+Denmark,Energy Engineering,Bachelor,38850.0
+Denmark,Quantum Engineering,Master,35650.0
+Denmark,Computer Science,Bachelor,33870.0
+Denmark,Data Analytics,Master,30850.0
+Denmark,Biotechnology,Master,28450.0
+Denmark,Bioinformatics,Master,27935.0
+Denmark,Environmental Science,Master,26050.0
+Denmark,Environmental Engineering,Master,22450.0
+Denmark,Engineering Management,Master,21250.0
+Dominican Republic,Computer Engineering,Bachelor,42100.0
+Dominican Republic,Computer Science,Bachelor,34740.0
+Dominican Republic,Computer Science,PhD,31300.0
+Dominican Republic,Information Technology,Master,18900.0
+Dominican Republic,Information Systems,Master,16540.0
+Ecuador,Software Development,PhD,49300.0
+Ecuador,Information Technology,PhD,40740.0
+Ecuador,Artificial Intelligence,Bachelor,32200.0
+Ecuador,Computer Science,Master,27300.0
+Ecuador,Information Systems,Master,22780.0
+Egypt,Computer Engineering,Bachelor,62615.0
+Egypt,Data Science,PhD,21060.0
+Egypt,Information Systems,Bachelor,17060.0
+Egypt,Software Engineering,Master,9700.0
+Egypt,Computer Science,Master,9020.0
+Egypt,Data Analytics,Master,8140.0
+El Salvador,Computer Engineering,Bachelor,34830.0
+El Salvador,Data Science,Bachelor,25310.0
+El Salvador,Software Development,Master,21310.0
+El Salvador,Information Systems,Master,17990.0
+Finland,Computer Science,PhD,41350.0
+Finland,Computer Science,Bachelor,40920.0
+Finland,Computer Engineering,Bachelor,38300.0
+Finland,Forestry Sciences,PhD,34150.0
+Finland,Environmental Science,Bachelor,27500.0
+Finland,Data Science,Master,25050.0
+Finland,Software Engineering,Master,23250.0
+Finland,Bioinformatics,Master,22050.0
+Finland,Industrial Management,Master,20850.0
+Finland,Industrial Engineering,Master,18450.0
+France,Data Engineering,PhD,68699.0
+France,Information Systems,PhD,68699.0
+France,Data Analytics,PhD,65899.0
+France,Computer Science,Master,49399.0
+France,Computer Science,Bachelor,48249.0
+France,Computer Engineering,Bachelor,46149.0
+France,International Relations,Master,43999.0
+France,Digital Systems,Bachelor,42549.0
+France,Software Engineering,Bachelor,41649.0
+France,Data Analytics,Master,40732.333333333336
+France,Software Development,Bachelor,40449.0
+France,Computer Engineering,Master,38999.0
+France,Data Science,Master,36999.0
+France,Artificial Intelligence,Master,32999.0
+France,Information Systems,Master,30199.0
+France,Data Engineering,Master,27599.0
+France,Cybersecurity,Master,27199.0
+Germany,Mathematics,PhD,66110.0
+Germany,Mechatronics,PhD,51710.0
+Germany,Physics,Bachelor,38810.0
+Germany,Computer Science,Bachelor,37010.0
+Germany,Molecular Biology,PhD,35625.0
+Germany,International Business,Bachelor,34125.0
+Germany,Software Engineering,Bachelor,33675.0
+Germany,Mechanical Engineering,Bachelor,31610.0
+Germany,Electrical Engineering,Master,30710.0
+Germany,Mathematics,Master,30710.0
+Germany,Information Systems,Bachelor,30075.0
+Germany,Mechanical Engineering,Master,29198.333333333332
+Germany,Computer Engineering,Bachelor,28425.0
+Germany,Aerospace Engineering,Master,28310.0
+Germany,Engineering,Master,28310.0
+Germany,Physics,Master,28310.0
+Germany,Computer Science,Master,26642.5
+Germany,Materials Science,Master,25910.0
+Germany,Data Engineering,Master,24975.0
+Germany,Computer Engineering,Master,24710.0
+Germany,Data Science,Bachelor,24675.0
+Germany,Robotics,Master,23510.0
+Germany,Photonics,Master,22310.0
+Germany,Artificial Intelligence,Master,21375.0
+Germany,Robotics & AI,Master,21375.0
+Germany,Digital Engineering,Master,20175.0
+Germany,Software Systems,Master,17775.0
+Ghana,Software Engineering,PhD,29920.0
+Ghana,Software Development,PhD,25920.0
+Ghana,Data Analytics,Master,16820.0
+Ghana,Information Technology,Master,14140.0
+Ghana,Data Science,Master,11940.0
+Greece,Electrical Engineering,PhD,33700.0
+Greece,Information Systems,PhD,26500.0
+Greece,Electronics,PhD,24100.0
+Greece,Cybersecurity,PhD,21700.0
+Greece,Computer Engineering,Bachelor,20740.0
+Greece,Information Systems,Bachelor,20740.0
+Greece,Software Engineering,Master,19120.0
+Greece,Data Science,Master,16900.0
+Greece,Information Technology,Master,14500.0
+Greece,Computer Science,Master,12820.0
+Greece,Data Analytics,Master,12820.0
+Greece,Computer Engineering,Master,12700.0
+Greece,Electronic Engineering,Master,12100.0
+Greece,Digital Innovation,Master,11380.0
+Greece,Digital Systems,Master,10900.0
+Hong Kong,Finance,Bachelor,162520.0
+Hungary,Computer Science,PhD,44180.0
+Hungary,Data Analytics,PhD,37460.0
+Hungary,Mechatronics,Bachelor,33290.0
+Hungary,Robotics,Bachelor,28610.0
+Hungary,Software Engineering,Master,26040.0
+Hungary,Software Development,Master,20440.0
+Hungary,Computer Engineering,Master,18840.0
+Hungary,Information Systems,Master,18680.0
+Iceland,Digital Business,Bachelor,37040.0
+Iceland,Data Analytics,Bachelor,35240.0
+Iceland,Computer Science,Master,30740.0
+Iceland,Robotics,Master,29540.0
+Iceland,Digital Design,Master,25940.0
+Iceland,Data Systems,Master,23540.0
+India,Data Science,PhD,23780.0
+India,Artificial Intelligence,PhD,22420.0
+India,Data Analytics,PhD,21060.0
+India,Computer Science,Master,13890.0
+India,Computer Engineering,Master,12780.0
+India,Software Engineering,Master,10900.0
+Indonesia,Information Systems,Bachelor,42130.0
+Indonesia,Computer Engineering,PhD,33550.0
+Indonesia,Software Engineering,Bachelor,29790.0
+Indonesia,Computer Science,PhD,24510.0
+Indonesia,Information Systems,Master,20250.0
+Indonesia,Data Science,Master,14650.0
+Indonesia,Artificial Intelligence,Master,13410.0
+Indonesia,Information Technology,Master,11450.0
+Iran,Data Analytics,PhD,28230.0
+Iran,Artificial Intelligence,PhD,25110.0
+Iran,Information Systems,Bachelor,21990.0
+Iran,Data Analytics,Master,16310.0
+Iran,Software Development,Master,13310.0
+Ireland,Computer Science,PhD,160350.0
+Ireland,Computer Science,Bachelor,135750.0
+Ireland,Data Science,PhD,108350.0
+Ireland,Data Science,Bachelor,99950.0
+Ireland,Computer Science,Master,59350.0
+Ireland,Data Analytics,Master,52400.0
+Israel,Computer Science,Bachelor,81750.0
+Italy,Robotics,PhD,69720.0
+Italy,Information Systems,PhD,62920.0
+Italy,Information Technology,PhD,62920.0
+Italy,Design,Bachelor,54270.0
+Italy,Software Engineering,PhD,54120.0
+Italy,Software Engineering,Bachelor,52320.0
+Italy,Computer Science,Bachelor,40620.0
+Italy,Data Analytics,Master,38320.0
+Italy,Data Engineering,Master,35420.0
+Italy,Cybersecurity,Master,32520.0
+Italy,Artificial Intelligence,Master,30320.0
+Italy,Software Engineering,Master,29920.0
+Italy,Computer Engineering,Master,29620.0
+Italy,Software Development,Master,28520.0
+Japan,Engineering,Bachelor,73620.0
+Japan,Information Science,Bachelor,70420.0
+Japan,Artificial Intelligence,PhD,68770.0
+Japan,Computer Engineering,Bachelor,62020.0
+Japan,Information Systems,Bachelor,60820.0
+Japan,Software Engineering,Bachelor,55620.0
+Japan,Information Science,Master,50720.0
+Japan,Computer Science,Master,37320.0
+Japan,Software Engineering,Master,33720.0
+Japan,Data Science,Master,31120.0
+Japan,Information Technology,Master,30120.0
+Kuwait,Artificial Intelligence,PhD,92540.0
+Kuwait,Data Science,Bachelor,67220.0
+Kuwait,Data Engineering,Master,49540.0
+Kuwait,Software Engineering,Master,43140.0
+Kuwait,Data Science,Master,27740.0
+Lebanon,Computer Science,Bachelor,82310.0
+Lebanon,Data Science,Master,55550.0
+Lebanon,Data Engineering,Master,49150.0
+Lebanon,Software Engineering,Master,43950.0
+Lebanon,Computer Science,PhD,29350.0
+Luxembourg,Computer Science,Bachelor,43300.0
+Luxembourg,Digital Innovation,Bachelor,43300.0
+Luxembourg,Artificial Intelligence,Master,36100.0
+Luxembourg,Data Analytics,Master,33700.0
+Luxembourg,Data Engineering,Master,31300.0
+Luxembourg,Information Technology,Master,30100.0
+Luxembourg,Business Analytics,Master,27700.0
+Malaysia,Data Analytics,PhD,52920.0
+Malaysia,Software Engineering,PhD,50920.0
+Malaysia,Data Analytics,Bachelor,40920.0
+Malaysia,Computer Science,Bachelor,40315.0
+Malaysia,Information Systems,Bachelor,40020.0
+Malaysia,Computer Science,Master,26980.0
+Malaysia,Data Analytics,Master,25440.0
+Malaysia,Artificial Intelligence,Master,25400.0
+Mexico,Data Analytics,Bachelor,68680.0
+Mexico,Information Technology,Bachelor,66040.0
+Mexico,Data Science,Master,41640.0
+Mexico,Computer Engineering,Bachelor,31300.0
+Mexico,Software Engineering,Bachelor,29240.0
+Mexico,Computer Engineering,Master,24540.0
+Mexico,Computer Systems,Master,15560.0
+Morocco,Computer Engineering,PhD,26670.0
+Morocco,Artificial Intelligence,PhD,22910.0
+Morocco,Computer Science,Bachelor,19390.0
+Morocco,Information Systems,Master,11770.0
+Morocco,Software Engineering,Master,10610.0
+Morocco,Data Analytics,Master,10170.0
+Netherlands,Artificial Intelligence,PhD,125451.0
+Netherlands,Computing Science,PhD,103051.0
+Netherlands,Economics,Bachelor,82740.0
+Netherlands,Robotics,PhD,79860.0
+Netherlands,Data Science,Bachelor,75535.5
+Netherlands,Computer Engineering,Bachelor,70740.0
+Netherlands,Information Systems,Bachelor,63240.0
+Netherlands,Artificial Intelligence,Bachelor,62940.0
+Netherlands,Business Analytics,Master,59115.5
+Netherlands,Computer Science,Master,57315.5
+Netherlands,Game Technology,Master,56020.0
+Netherlands,Data Science,Master,52411.0
+Netherlands,Bioinformatics,Master,50815.5
+Netherlands,Computing Science,Master,50420.0
+Netherlands,Software Science,Master,49820.0
+Netherlands,Artificial Intelligence,Master,44355.5
+New Zealand,Mechanical Engineering,PhD,172330.0
+New Zealand,Environmental Computing,PhD,157930.0
+New Zealand,Marine Biology,Bachelor,130745.0
+New Zealand,Computer Engineering,Bachelor,113430.0
+New Zealand,Computer Science,Master,94330.0
+New Zealand,Data Analytics,Master,88030.0
+New Zealand,Information Systems,Master,81130.0
+New Zealand,Environmental Science,Master,78930.0
+Nigeria,Computer Engineering,Bachelor,30580.0
+Norway,Environmental Science,Bachelor,51885.0
+Norway,Marine Technology,PhD,51075.0
+Norway,Renewable Energy,PhD,43875.0
+Norway,Computer Science,Master,35275.0
+Norway,Marine Biology,Bachelor,32975.0
+Norway,Artificial Intelligence,Master,30475.0
+Norway,Petroleum Engineering,Master,28075.0
+Norway,Robotics,Master,28075.0
+Norway,Biotechnology,Master,23275.0
+Norway,Information Security,Master,20875.0
+Norway,Systems Engineering,Master,20875.0
+Panama,Data Analytics,Bachelor,42040.0
+Panama,Artificial Intelligence,Master,30300.0
+Panama,Computer Science,Master,22400.0
+Peru,Software Development,PhD,44960.0
+Peru,Software Engineering,Bachelor,43920.0
+Peru,Data Engineering,PhD,39040.0
+Peru,Data Analytics,Master,24040.0
+Peru,Information Systems,Master,21220.0
+Poland,Data Science,PhD,44880.0
+Poland,Computer Science,PhD,40320.0
+Poland,Computer Engineering,Bachelor,25460.0
+Poland,Computer Science,Master,23980.0
+Poland,Software Development,Master,20880.0
+Poland,Artificial Intelligence,Master,19280.0
+Poland,Cybersecurity,Master,18360.0
+Poland,Software Engineering,Master,17680.0
+Portugal,Robotics,PhD,52875.0
+Portugal,Data Science,Bachelor,40875.0
+Portugal,Architecture,Bachelor,40770.0
+Portugal,Computing,Bachelor,32175.0
+Portugal,Software Engineering,Master,30675.0
+Portugal,Computer Engineering,Master,28575.0
+Portugal,Computer Science,Master,26475.0
+Portugal,Information Systems,Master,24195.0
+Romania,Software Engineering,PhD,29360.0
+Romania,Computer Engineering,Bachelor,25115.0
+Romania,Software Development,PhD,24720.0
+Romania,Data Science,Master,14820.0
+Romania,Information Systems,Master,13420.0
+Romania,Data Analytics,Master,12300.0
+Russia,Computer Science,Bachelor,52560.0
+Russia,Data Analytics,PhD,39760.0
+Russia,Artificial Intelligence,Bachelor,38000.0
+Russia,Information Technology,Bachelor,35360.0
+Russia,Applied Mathematics,Master,25420.0
+Russia,Data Science,Master,24160.0
+Russia,Mathematics,Master,20160.0
+Russia,Computer Science,Master,18640.0
+Russia,Software Engineering,Master,18560.0
+Saudi Arabia,Data Science,PhD,61800.0
+Saudi Arabia,Information Technology,PhD,51800.0
+Saudi Arabia,Software Development,Bachelor,51400.0
+Saudi Arabia,Computer Engineering,Bachelor,47640.0
+Saudi Arabia,Computer Science,Master,30390.0
+Saudi Arabia,Data Engineering,Master,29400.0
+Saudi Arabia,Software Development,Master,25000.0
+Saudi Arabia,Information Systems,Master,24600.0
+Serbia,Software Engineering,PhD,27130.0
+Serbia,Data Engineering,Bachelor,24410.0
+Serbia,Information Systems,Master,14730.0
+Serbia,Computer Engineering,Master,12930.0
+Serbia,Computer Science,Master,11810.0
+Singapore,Computer Engineering,PhD,229290.0
+Singapore,Digital Systems & AI,PhD,226890.0
+Singapore,Computer Science,PhD,216090.0
+Singapore,Data Analytics,Bachelor,210490.0
+Singapore,Computer Science,Bachelor,205290.0
+Singapore,Information Systems,Bachelor,202490.0
+Singapore,Robotics,PhD,201690.0
+Singapore,Computer Science & Design,Bachelor,200090.0
+Singapore,Software Engineering,Bachelor,192890.0
+Singapore,Data Science,PhD,115690.0
+Singapore,Artificial Intelligence,Master,109823.33333333333
+Singapore,Data Science & AI,Master,107490.0
+Singapore,Computing & Innovation,Master,106090.0
+Singapore,Technology & Innovation,Master,105290.0
+Singapore,Finance,Master,87990.0
+Slovenia,Computer Engineering,PhD,43880.0
+Slovenia,Information Technology,Bachelor,28550.0
+Slovenia,Information Systems,Bachelor,26810.0
+Slovenia,Data Science,Master,20180.0
+Slovenia,Computer Science,Master,18780.0
+South Africa,Computer Science,Bachelor,40640.0
+South Korea,Computer Science,PhD,63330.0
+South Korea,Business,Bachelor,59330.0
+South Korea,Artificial Intelligence,Master,37770.0
+South Korea,Digital Media,Master,37130.0
+South Korea,Robotics Engineering,Master,32090.0
+South Korea,Data Science,Master,31590.0
+South Korea,Software Engineering,Master,30950.0
+South Korea,Computer Science,Master,30223.333333333332
+South Korea,Computer Engineering,Master,29276.666666666668
+South Korea,Computer Systems,Master,29090.0
+South Korea,Information Systems,Master,29090.0
+South Korea,AI Engineering,Master,27810.0
+South Korea,Data Analytics,Master,25890.0
+South Korea,Software Systems,Master,25090.0
+South Korea,Information Technology,Master,24770.0
+South Korea,Information Security,Master,24450.0
+South Korea,Computer Networks,Master,23770.0
+Spain,Software Engineering,PhD,69880.0
+Spain,Architecture,Bachelor,58960.0
+Spain,Computer Science,PhD,57480.0
+Spain,Information Systems,PhD,54280.0
+Spain,Artificial Intelligence,PhD,45880.0
+Spain,Data Science,PhD,44280.0
+Spain,Computer Science,Bachelor,35930.0
+Spain,Computer Science,Master,34980.0
+Spain,Data Science,Master,30180.0
+Spain,Information Technology,Master,28780.0
+Spain,Artificial Intelligence,Master,28580.0
+Spain,Computer Engineering,Master,25580.0
+Spain,Robotics,Master,24280.0
+Spain,Information Systems,Master,22180.0
+Sweden,Physics,PhD,51120.0
+Sweden,Neuroscience,PhD,49710.0
+Sweden,Mathematics,Bachelor,34770.0
+Sweden,Sustainable Technology,Master,29710.0
+Sweden,Information Systems,Bachelor,29370.0
+Sweden,Engineering Physics,Master,28020.0
+Sweden,Sustainable Energy,Master,24420.0
+Sweden,Computer Science,Master,22020.0
+Sweden,Artificial Intelligence,Master,20820.0
+Sweden,Software Engineering,Master,18420.0
+Switzerland,Computer Science,PhD,102140.0
+Switzerland,Pharmaceutical Sciences,PhD,97288.0
+Switzerland,Data Science,Bachelor,79828.0
+Switzerland,Business Informatics,Bachelor,65608.0
+Switzerland,Digital Innovation,Bachelor,65428.0
+Switzerland,Computer Engineering,Bachelor,58228.0
+Switzerland,Physics,Master,55808.0
+Switzerland,Computational Science,Master,48568.0
+Switzerland,Computer Science,Master,47096.0
+Switzerland,Data Engineering,Master,46208.0
+Switzerland,Software Engineering,Master,46128.0
+Switzerland,Data Science,Master,45540.0
+Switzerland,Data Analytics,Master,41540.0
+Switzerland,Artificial Intelligence,Master,41408.0
+Switzerland,Information Systems,Master,41328.0
+Taiwan,Electronics Engineering,Bachelor,56340.0
+Thailand,Data Science,Bachelor,63880.0
+Thailand,Software Engineering,Bachelor,52920.0
+Thailand,Computer Engineering,Bachelor,48440.0
+Thailand,Software Engineering,Master,42780.0
+Thailand,Computer Science,Bachelor,38140.0
+Thailand,Information Technology,Master,28780.0
+Thailand,Computer Engineering,Master,27980.0
+Thailand,Data Engineering,Master,24780.0
+Tunisia,Data Science,PhD,15420.0
+Tunisia,Computer Systems,Bachelor,11040.0
+Tunisia,Artificial Intelligence,Bachelor,9660.0
+Tunisia,Computer Science,Master,9460.0
+Tunisia,Artificial Intelligence,Master,8060.0
+Tunisia,Computer Engineering,Master,7100.0
+Turkey,Computer Engineering,Bachelor,30100.0
+Turkey,Data Science,PhD,27850.0
+Turkey,Electronics Engineering,PhD,26490.0
+Turkey,Information Systems,Bachelor,22890.0
+Turkey,Artificial Intelligence,Bachelor,21930.0
+Turkey,Computer Engineering,Master,18490.0
+Turkey,Data Engineering,Master,14290.0
+Turkey,Computer Science,Master,12410.0
+Turkey,Software Engineering,Master,11890.0
+UAE,Computer Science,Bachelor,179070.0
+UAE,Computer Science,PhD,150470.0
+UAE,Information Systems,Bachelor,133670.0
+UAE,Information Technology,Bachelor,118470.0
+UAE,Robotics,Master,79770.0
+UAE,Data Analytics,Master,78170.0
+UAE,Data Science,Master,67770.0
+UAE,Computer Engineering,Master,62570.0
+UK,Physics,PhD,210085.0
+UK,Computer Science,PhD,204485.0
+UK,Biomedical Sciences,PhD,199685.0
+UK,Artificial Intelligence,PhD,188835.0
+UK,Chemistry,PhD,186885.0
+UK,Software Engineering,PhD,186885.0
+UK,Data Engineering,PhD,185285.0
+UK,Data Analytics,Bachelor,161885.0
+UK,Economics,Bachelor,142085.0
+UK,Engineering,Bachelor,140285.0
+UK,Physics,Bachelor,139085.0
+UK,Mathematics,Bachelor,136085.0
+UK,Computer Science,Bachelor,133259.03846153847
+UK,Computer Engineering,Bachelor,125585.0
+UK,Software Engineering,Bachelor,122585.0
+UK,Software Engineering,Master,115685.0
+UK,Computing Systems,Bachelor,112385.0
+UK,Computer Engineering,Master,111485.0
+UK,Chemistry,Master,104485.0
+UK,Engineering,Master,91085.0
+UK,Data Engineering,Master,89285.0
+UK,Data Science,Master,72451.66666666667
+UK,Data Analytics,Master,63751.666666666664
+UK,Computer Science,Master,54168.333333333336
+UK,Cybersecurity,Master,44485.0
+UK,Software Development,Master,42085.0
+USA,Electrical Engineering,PhD,408660.0
+USA,Physics,PhD,405660.0
+USA,Computer Engineering,PhD,399660.0
+USA,Robotics,PhD,378660.0
+USA,Artificial Intelligence,PhD,377660.0
+USA,Software Development,PhD,377660.0
+USA,Chemistry,PhD,366660.0
+USA,Engineering,PhD,349660.0
+USA,Machine Learning,PhD,349660.0
+USA,Computer Science,PhD,347960.0
+USA,Data Science,PhD,310960.0
+USA,Aerospace Engineering,Bachelor,301760.0
+USA,Computer Engineering,Bachelor,286160.0
+USA,Industrial Engineering,Bachelor,262960.0
+USA,Computer Science,Bachelor,253464.34782608695
+USA,Chemical Engineering,Bachelor,246560.0
+USA,Information Technology,Bachelor,233360.0
+USA,Economics,Master,187160.0
+USA,Artificial Intelligence,Master,168360.0
+USA,Data Science,Master,155996.36363636365
+USA,Data Analytics,Master,152626.66666666666
+USA,Computer Science,Master,150210.0
+USA,Biotechnology,Master,146760.0
+USA,Software Engineering,Master,146660.0
+USA,Mathematics,Master,145360.0
+USA,Computer Engineering,Master,142560.0
+Ukraine,Software Engineering,Bachelor,35720.0
+Ukraine,Artificial Intelligence,PhD,31080.0
+Ukraine,Computer Science,Master,16120.0
+Ukraine,Data Science,Master,15440.0
+Ukraine,Data Analytics,Master,14520.0
+Uruguay,Data Science,Master,24390.0
+Uruguay,Computer Engineering,PhD,23090.0
+Uruguay,Computer Science,Master,22910.0
+Uruguay,Information Systems,Bachelor,18290.0
+Uruguay,Software Engineering,Master,8710.0
+Uzbekistan,Computer Science,Bachelor,29040.0
+Uzbekistan,Data Analytics,Master,14260.0
+Uzbekistan,Information Technology,Master,12260.0
+Uzbekistan,Software Development,Master,11380.0
+Vietnam,Software Engineering,Bachelor,35520.0
